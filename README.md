@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **GraphQl and Typescript**
 
-- 👨‍💻 All of my projects are available at [hamudeshahin.me](hamudeshahin.me)
+- 👨‍💻 All of my projects are available at [hamudeshahin.com](hamudeshahin.com)
 
-- 📝 I regularly write articles on [blog.hamudeshahin.me](blog.hamudeshahin.me)
+- 📝 I regularly write articles on [hamudeshahin.com/blogs](hamudeshahin.com/blogs)
 
 - 📫 How to reach me **hamedsahin2018@gmail.com**
 
-- 📄 Know about my experiences [hamudeshahin.me/experiences](hamudeshahin.me/experiences)
+- 📄 Know about my experiences [hamudeshahin.com/experiences](hamudeshahin.com/experiences)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
