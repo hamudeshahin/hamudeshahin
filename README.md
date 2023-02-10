@@ -13,7 +13,7 @@ I have experience for 4 years as a full stack developer. I do my stuff using MER
 * 🤝  I'm open to collaborating on All web apps and mobile applications projects
 * ⚡  I'm secretly Spiderman... but don't tell anyone ;)
 
-<a href="https://www.github.com/hamueshahin" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/hamudeshahin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hamueshahin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/hamude_shahin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/hamude_shahin?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
