@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hamude Shahin
 =====================================================================================================================================
 
-Full Stack & Mobile React-native Developer
+Full Stack Developer
 ------------------------------------------
 
 I have experience for 4 years as a full stack developer. I do my stuff using MERN Tech. Currently i am living in Turkey/Sanliurfa and study there Computer Engineering there.
