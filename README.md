@@ -7,8 +7,8 @@ Full Stack Developer
 I have experience for 4 years as a full stack developer. I do my stuff using MERN Tech. Currently i am living in Turkey/Sanliurfa and study there Computer Engineering there.
 
 * 🌍  I'm based in Turkey
-* 🖥️  See my portfolio at [Hamude shahin](http://hamudeshahin.com)
-* 🖥️  See my blogs at [Hamude shahin - Blogs](http://hamudeshahin.com/blogs)
+* 🖥️  See my portfolio at [Hamude shahin](http://hamudeshahin.me)
+* 🖥️  See my blogs at [Hamude shahin - Blogs](http://hamudeshahin.me/blogs)
 * ✉️  You can contact me at [hamedsahin2018@icloud.com](mailto:hamedsahin2018@icloud.com)
 * 🧠  I'm learning Nestjs
 * 🤝  I'm open to collaborating on All web apps and mobile applications projects
