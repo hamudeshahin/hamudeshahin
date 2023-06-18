@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 ------------------------------------------
 
-I have experience for 4 years as a full stack developer. I do my stuff using MERN Tech. Currently i am living in Turkey/Sanliurfa and study there Computer Engineering there.
+I have experience for 4 years as a full stack developer. I do my stuff using MERN Tech. Currently i am living in Turkey/Sanliurfa and study  Computer Engineering there.
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [Hamude shahin](http://hamudeshahin.me)
