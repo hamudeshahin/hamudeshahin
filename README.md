@@ -10,7 +10,7 @@ I have experience for 4 years as a full stack developer. I do my stuff using MER
 * 🖥️  See my portfolio at [Hamude shahin](http://hamudeshahin.me)
 * 🖥️  See my blogs at [Hamude shahin - Blogs](http://hamudeshahin.me/blogs)
 * ✉️  You can contact me at [hamedsahin2018@icloud.com](mailto:hamedsahin2018@icloud.com)
-* 🧠  I'm learning Nestjs
+* 🧠  I'm currently learning Python
 * 🤝  I'm open to collaborating on All web apps and mobile applications projects
 * ⚡  I'm secretly Spiderman... but don't tell anyone ;)
 
