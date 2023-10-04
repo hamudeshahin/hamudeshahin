@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hamude_shahin" target="blank"><img src="https://img.shields.io/twitter/follow/hamude_shahin?logo=twitter&style=for-the-badge" alt="hamude_shahin" /></a> </p>
 
-- 🔭 I’m currently working on [geeks/ui]([https://github.com/hamudeshahin/geeks-ui](https://github.com/Geeks7eam/ui))
+- 🔭 I’m currently working on [geeks/ui](https://github.com/Geeks7eam/ui)
 
 - 👯 I’m looking to collaborate on **All web & mobile apps**
 
