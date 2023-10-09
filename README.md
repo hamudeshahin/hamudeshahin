@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamude Shahin</h1>
 <h3 align="center">A full-stack developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamudeshahin&label=Profile%20views&color=0e75b6&style=flat" alt="hamudeshahin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamudeshahin" alt="hamudeshahin" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/hamude_shahin" target="blank"><img src="https://img.shields.io/twitter/follow/hamude_shahin?logo=twitter&style=for-the-badge" alt="hamude_shahin" /></a> </p>
 
 - 🔭 I’m currently working on [geeks/ui](https://github.com/Geeks7eam/ui)
 
