@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://hamudeshahin.me](https://hamudeshahin.me)
 
-- ⚡ Fun fact **I'm secretly Spiderman... but don't tell anyone ;)**
+- ⚡ **I'm secretly Spiderman... but don't tell anyone ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
