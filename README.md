@@ -2,7 +2,7 @@
 <h3 align="center">A full-stack developer.</h3>
 
 
-- 🔭 I’m currently working on [geeks/ui](https://github.com/Geeks7eam/ui)
+- 🔭 I’m currently working on [@zyxui/ui](https://github.com/zyx7eam/ui)
 
 - 👯 I’m looking to collaborate on **All web & mobile apps**
 
